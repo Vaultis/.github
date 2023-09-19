@@ -1,23 +1,38 @@
-# SEG 4105 - Vaultis
-## Goal
-This GitHub organization serves as a collaborative space for our team's SEG 4105 group project. We use it to manage repositories and project artifacts.
+# Welcome to Vaultis 👋 🔐
+This GitHub organization serves as a collaborative space for our team's SEG 4105 group project. We use it to manage repositories and project artifacts including but not limited to:
+- Source Code
+- Project Details
+- Team Details and Roles
+- Meeting Minutes
+- Hill Charts
+- Project Tasks
 
-## Contributors
-- [Jean Loic Kandikandi](https://github.com/kandloic)
-- [Nicolas Thivierge](https://github.com/Nicolas200124)
+## Project Definition
 
-<!-- ## Repository Structure
-[Repository Name 1]
-[Repository Name 2]
-[Repository Name 3]
+### Overview
+Vaultis is your go-to tool for effortlessly keeping tabs on your income, expenses, investments; savings goals and any other financial needs. With this app by your side, you're not just managing finances; you're charting a path toward your financial dreams with a confident stride.
 
+### Stakeholders
+Project Manager: Loic Kandikandi & Nicolas Thivierge
+Development Team: Loic Kandikandi & Nicolas Thivierge
+Testers: Loic Kandikandi & Nicolas Thivierge
+Users: End-users
 
-## Getting Started
-[Provide instructions on how to get started with the project, setup, and any necessary tools or dependencies.]
+### Project Team:
+- [Jean Loic Kandikandi](https://github.com/kandloic) - 300113205
+- [Nicolas Thivierge](https://github.com/Nicolas200124) - 300136272
 
-## Communication
-[Explain how the team will communicate, e.g., through GitHub issues, Slack, etc.]
+### Timeline:
+- Project Start Date: Sep 19, 2023
+- Project End Date: Nov 30, 2023
+- Milestones:
+  - Prototype (Nov 10, 2023);
+  - Internal Testing Release (Nov 20, 2023);
+  - Limited User Testing (Nov 30, 2023)
 
-## Contribution Guidelines
-[Include information on how team members should contribute, create branches, submit pull requests, and review processes.]
--->
+ ### Tools
+ The following tools will be used:
+- Github Projects for managing project progress
+- Github for managing project repositories
+- Github Actions for automating tests and deployment pipeline(s)
+- Github Wiki for documenting meeting minutes
