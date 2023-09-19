@@ -7,16 +7,16 @@ This GitHub organization serves as a collaborative space for our team's SEG 4105
 - Hill Charts
 - Project Tasks
 
-## Project Definition
+## Project Description
 
 ### Overview
 Vaultis is your go-to tool for effortlessly keeping tabs on your income, expenses, investments; savings goals and any other financial needs. With this app by your side, you're not just managing finances; you're charting a path toward your financial dreams with a confident stride.
 
 ### Stakeholders
-Project Manager: Loic Kandikandi & Nicolas Thivierge
-Development Team: Loic Kandikandi & Nicolas Thivierge
-Testers: Loic Kandikandi & Nicolas Thivierge
-Users: End-users
+- Project Manager: Loic Kandikandi & Nicolas Thivierge
+- Development Team: Loic Kandikandi & Nicolas Thivierge
+- Testers: Loic Kandikandi & Nicolas Thivierge
+- Users: End-users
 
 ### Project Team:
 - [Jean Loic Kandikandi](https://github.com/kandloic) - 300113205
