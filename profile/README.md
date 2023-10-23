@@ -35,4 +35,4 @@ Vaultis is your go-to tool for effortlessly keeping tabs on your income, expense
 - Github Projects for managing project progress
 - Github for managing project repositories
 - Github Actions for automating tests and deployment pipeline(s)
-- Github Wiki for documenting meeting minutes
+- [Github Wiki](https://github.com/Vaultis/.github/wiki/Meeting-Minutes-:-Week-of-23-October) for documenting meeting minutes
