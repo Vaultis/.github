@@ -3,9 +3,9 @@ This GitHub organization serves as a collaborative space for our team's SEG 4105
 - Source Code
 - Project Details
 - Team Details and Roles
-- Meeting Minutes
+- [Meeting Minutes](https://github.com/Vaultis/.github/wiki)
 - Hill Charts
-- Project Tasks
+- [Project Tasks](https://github.com/orgs/Vaultis/projects/1/views/4)
 
 ## Project Description
 
@@ -26,8 +26,8 @@ Vaultis is your go-to tool for effortlessly keeping tabs on your income, expense
 - Project Start Date: Sep 19, 2023
 - Project End Date: Nov 30, 2023
 - Milestones:
-  - Prototype (Nov 10, 2023);
-  - Internal Testing Release (Nov 20, 2023);
+  - Prototype (Nov 23, 2023);
+  - Internal Testing Release (Nov 25, 2023);
   - Limited User Testing (Nov 30, 2023)
 
  ### Tools
